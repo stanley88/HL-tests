@@ -1,0 +1,4 @@
+Hello!
+
+Launch the tests using command:
+    "gradle test"
